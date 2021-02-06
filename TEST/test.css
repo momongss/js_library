@@ -1,0 +1,17 @@
+.container {
+  background-color: yellow;
+  left: 20px;
+  top: 20px;
+  position: relative;
+}
+
+div {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.item {
+  background-color: red;
+}
